@@ -1,0 +1,10 @@
+Index: process-cpp-2.0.0+14.10.20140718/CMakeLists.txt
+===================================================================
+--- process-cpp-2.0.0+14.10.20140718.orig/CMakeLists.txt
++++ process-cpp-2.0.0+14.10.20140718/CMakeLists.txt
+@@ -73,4 +73,4 @@ add_subdirectory(doc)
+ add_subdirectory(data)
+ add_subdirectory(include)
+ add_subdirectory(src)
+-add_subdirectory(tests)
++#add_subdirectory(tests)
