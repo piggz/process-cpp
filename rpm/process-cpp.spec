@@ -47,7 +47,7 @@ This package provides shared libraries for process-cpp.
 %package devel
 Summary:	Development headers for process-cpp
 Group:	        Development/Libraries/C and C++
-Requires:	libprocess-cpp2 = %{version}
+Requires:	libprocess-cpp3 = %{version}
 Requires:	properties-cpp-devel
 
 %description devel
